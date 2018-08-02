@@ -1,0 +1,109 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"miniprogramRoot": "./dist/",
+	"compileType": "miniprogram",
+	"appid": "wx9a9c056711784132",
+	"projectname": "youdiantemplate",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "category",
+					"pathName": "pages/category/main",
+					"query": ""
+				},
+				{
+					"id": 1,
+					"name": "goodsdetail",
+					"pathName": "pages/goodsdetail/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "search",
+					"pathName": "pages/search/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "me",
+					"pathName": "pages/me/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "cart",
+					"pathName": "pages/cart/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "enterorder",
+					"pathName": "pages/enterorder/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "paysuccess",
+					"pathName": "pages/paysuccess/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "payfail",
+					"pathName": "pages/payfail/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "orderdetail",
+					"pathName": "pages/orderdetail/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "orderlist",
+					"pathName": "pages/orderlist/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "aftersale",
+					"pathName": "pages/aftersale/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "couponlist",
+					"pathName": "pages/couponlist/main",
+					"query": ""
+				}
+			]
+		}
+	}
+}

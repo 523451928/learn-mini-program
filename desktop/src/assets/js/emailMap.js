@@ -1,0 +1,8 @@
+export let eMap = new Map()
+eMap.set('@qq.com', 'https://mail.qq.com')
+eMap.set('@163.com', 'https://mail.163.com/')
+eMap.set('@sina.com', 'http://mail.sina.com.cn/')
+eMap.set('@sina.cn', 'http://mail.sina.com.cn/')
+eMap.set('@vip.126.com ', 'https://mail.126.com/')
+eMap.set('@126.com', 'https://mail.126.com/')
+eMap.set('@sohu.com', 'https://mail.sohu.com/fe/#/login')

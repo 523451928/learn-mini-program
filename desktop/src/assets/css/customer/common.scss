@@ -1,0 +1,46 @@
+.common-header {
+  width: 100%;
+  padding: 30px 20px;
+  margin-bottom: 24px;
+  box-sizing: border-box;
+  background: #fff;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+  .mp-select {
+    width: 200px !important;
+    .select-val {
+      top: 14px !important;
+    }
+  }
+  .el-dropdown {
+    top: 0 !important;
+  }
+  .el-button {
+    padding: 10px 20px !important;
+    margin-left: 14px;
+  }
+  .el-button--primary {
+    margin-left: 0;
+  }
+  .el-popper {
+    margin-top: 12px !important;
+  }
+  .el-select {
+    width: 200px;
+    margin-right: 14px;
+  }
+  .mp-input {
+    display: inline-block;
+    width: 226px;
+  }
+  .search-title {
+    font-size: 20px;
+    margin-bottom: 16px;
+  }
+}
+.common-wrapper {
+  width: 100%;
+  padding: 30px 20px 50px 20px;
+  box-sizing: border-box;
+  background: #fff;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+}
